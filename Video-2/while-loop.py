@@ -3,12 +3,11 @@ while loop
 """
 
 
-"""a = 10
+a = 10
 b = 5
 while b < a:
     b = b + 1
     print(b)
-"""
 
 
 karşılama = """
@@ -18,7 +17,7 @@ karşılama = """
 (4) bölme
 """
 
-"""
+
 print(karşılama)
 
 anahtar = 1
@@ -54,9 +53,9 @@ while anahtar == 1:
               format(sayı1, sayı2, sayı1+sayı2))
     else:
         print("geçersiz işlem")
-"""
 
-"""kullanıcıadı = "root"
+
+kullanıcıadı = "root"
 password = "root"
 
 giriş_hakkı = 3
@@ -79,10 +78,7 @@ while True:  # kullanıcı doğru giriş yaptığında sona ersin
     if (giriş_hakkı == 0):
         print("giriş hakkın bitti")
         break
-"""
 
-
-"""
 
 print(
     """
@@ -118,10 +114,8 @@ while True:
         print("geçersiz işlem")
         break
 
-"""
 
-
-"""while True:
+while True:
     sayi = input("sayı: ")
     if (sayi == "q"):
         print("programdan çıkılıyor")
@@ -133,4 +127,3 @@ while True:
     for i in range(2, sayi+1):
         faktoriyel *= i
     print("Fkatoriyeli:", faktoriyel)
-"""
